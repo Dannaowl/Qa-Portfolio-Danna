@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Danna, QA Tester / Analista de software
+# ¡Hola! Soy Danna, QA Tester / Analista de software
 
 Soy una QA Tester enfocada en asegurar la **calidad del software**, la **experiencia del usuario** y la **entrega continua de valor**. Mi pasión es encontrar y reportar defectos de manera efectiva, así como implementar estrategias de automatización que optimicen el ciclo de desarrollo.
 
